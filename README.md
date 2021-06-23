@@ -1,6 +1,7 @@
 # web-scraping-
  Extraction and copying  data from a website into a structured format using web-scraping technique.
- 
+ ![img4](https://user-images.githubusercontent.com/59575205/123017743-e21d5500-d3d5-11eb-849c-0185b55a33a0.png)
+
  # Project Objectives:
  Google play store is brimming with a lot of untapped data with a prominent potential to drive app-making businesses to success. Also meaningful and actionable insights can be drawn for developers to work on and capture the google market!. Here, I explored using data science technique which is web scraping to retrieved data from one of the largest app markets in the world, the Google Play Store. Furthermore I tried to explore google play data to find answers to questions of my interest which are:
  - 	Do all the applications in the Top Charts have a rating higher than 4 stars?
@@ -50,5 +51,5 @@ From this bar chart graph, you can notice that entertainment apps are the most f
 
 You can find the rest of the analysis in this shared document :
 
-**Future work :**
+## Future work :
 Build machine learning models that helps decision makers to decide whether the app they may developed will be downloaded by the expected users or not (Add more features and data)
