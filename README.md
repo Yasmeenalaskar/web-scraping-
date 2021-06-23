@@ -1,5 +1,6 @@
 # web-scraping-
- Extraction and copying  data from a website into a structured format using web-scraping technique.
+ **Extraction and copying  data from a website into a structured format using web-scraping technique.** 
+ 
  ![img4](https://user-images.githubusercontent.com/59575205/123017743-e21d5500-d3d5-11eb-849c-0185b55a33a0.png)
 
  # Project Objectives:
